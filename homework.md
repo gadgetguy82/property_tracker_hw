@@ -43,4 +43,4 @@ Q10. What do they take in as their arguments?
 They will take an id integer value and an address string value respectively
 
 Q11. What are their return values?
-They will return an array of hashes and a Property object respectively
+They will return a Property object
